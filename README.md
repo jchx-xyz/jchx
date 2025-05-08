@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @jchx-xyz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
+# jchx | Building at the edge of Web3 🧬
 
-<!---
-jchx-xyz/jchx-xyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Smart contracts, rollups, developer tooling, and modular chains.**  
+This profile hosts my Web3 & blockchain-specific projects.
+
+## 🛠 Current Projects
+- [QBCAT Token — ERC-20](#)
+- [Superposition Series NFTs — ERC-721](#)
+- [DAO Voting Contract](#)
+- [Rollup Data Explorer](#)
+
+## 👁 Philosophy
+*Entropy is not the enemy. It’s the engine.*  
+Here, I explore turning high-entropy complexity into scalable, future-proof systems.
+
+## 🧩 About
+I’m Juana (aka juanchax / jchx).  
+Systems architect. Web3 explorer. Always learning, always building.
+
+## 🔗 Main Dev Profile
+[Juanchax GitHub](https://github.com/juanchax)
