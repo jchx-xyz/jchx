@@ -14,7 +14,7 @@ This profile hosts my Web3 & blockchain-specific projects.
 Here, I explore turning high-entropy complexity into scalable, future-proof systems.
 
 ## 🧩 About
-I’m Juana (aka juanchax / jchx).  
+I’m jchx (aka juanchax / juana).  
 Systems architect. Web3 explorer. Always learning, always building.
 
 ## 🔗 Main Dev Profile
