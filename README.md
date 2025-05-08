@@ -18,4 +18,4 @@ I’m jchx (aka juanchax / juana).
 Systems architect. Web3 explorer. Always learning, always building.
 
 ## 🔗 Main Dev Profile
-[Juanchax GitHub](https://github.com/juanchax)
+[juanchax GitHub](https://github.com/juanchax)
